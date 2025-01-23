@@ -239,7 +239,7 @@
                 "sha256:dafca5b9e384f0e419294eb4d2ff9fa826435bf15f15b7bd45723e8ad76811b2"
             ],
             "markers": "python_version >= '3.9'",
-            "version": "==0.21.2"
+            "version": "=="
         },
         "exceptiongroup": {
             "hashes": [
