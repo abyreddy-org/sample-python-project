@@ -429,7 +429,7 @@
                 "sha256:b8e6aca0523f3ab76fee51799c488e38782ac06eafcf95e7ba832985c8e7b13a"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==2.18.0"
+            "version": "==2.19.1"
         },
         "pyproject-hooks": {
             "hashes": [
