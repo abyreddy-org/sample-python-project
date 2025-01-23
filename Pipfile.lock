@@ -255,7 +255,7 @@
                 "sha256:5189b52c6121c24feae288166ab41b32549c7e2348652736540b9e6e7d4e72e3"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==2.1.1"
+            "version": "=="
         },
         "gitdb": {
             "hashes": [
