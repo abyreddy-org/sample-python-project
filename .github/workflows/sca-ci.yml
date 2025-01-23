@@ -1,0 +1,12 @@
+name: "Software Composition Analysis"
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  sca-scans:
+    uses: abyreddy-org/sca-scan-templates/.github/workflows/sca-ci.yml@main
+    secrets: inherit
