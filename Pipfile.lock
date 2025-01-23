@@ -479,7 +479,7 @@
                 "sha256:8712034eabbfa6805cacf1402b4eeb2a73028f72d1166d6f5cb7f9c047c5d1e1"
             ],
             "markers": "python_version >= '3.9'",
-            "version": "==44.0"
+            "version": "=="
         },
         "requests": {
             "hashes": [
