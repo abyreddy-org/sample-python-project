@@ -553,7 +553,7 @@
             ],
             "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==5.1.1"
+            "version": "==6.1.0"
         },
         "urllib3": {
             "hashes": [
