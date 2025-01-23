@@ -22,7 +22,7 @@
                 "sha256:d75e02c268746e1b8144c278978b6e98e85de6ad16f8e4b0844a154557eca991"
             ],
             "markers": "python_version < '3.12'",
-            "version": "==1.2.0"
+            "version": "=="
         },
         "build": {
             "hashes": [
