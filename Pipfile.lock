@@ -336,7 +336,7 @@
                 "sha256:c1633f99d0400903f92e8962adfec7bae09f5ed9d984c6b37831b014de6efa42"
             ],
             "index": "pypi",
-            "version": "==0.3.13"
+            "version": "=="
         },
         "keyring": {
             "hashes": [
