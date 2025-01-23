@@ -352,7 +352,7 @@
                 "sha256:e3f60a94fa066dc52ec76661e37c851cb232d92f9886b15cb560aaada2df8feb"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==3.0.0"
+            "version": "=="
         },
         "mdurl": {
             "hashes": [
