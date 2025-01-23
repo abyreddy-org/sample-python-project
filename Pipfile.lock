@@ -288,7 +288,7 @@
                 "sha256:188bd24e4c346d3f0a933f275c2fec67050326a856b9a359881d7c2a697e8812"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==8.0.0"
+            "version": "==8.6.1"
         },
         "iniconfig": {
             "hashes": [
