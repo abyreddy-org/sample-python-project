@@ -405,7 +405,7 @@
                 "sha256:889a6da2ed7ffc58ab5b900d888ddce90bce912f2d2de1dc1c26f4cb9fe65097"
             ],
             "markers": "python_version >= '3.6'",
-            "version": "==1.10.0"
+            "version": "==1.12.0"
         },
         "pluggy": {
             "hashes": [
