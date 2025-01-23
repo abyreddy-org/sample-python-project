@@ -389,7 +389,7 @@
                 "sha256:de3ceed6e661954871d6cd78b410213bdcb136f79aafe22aa7182e028b8c7307",
                 "sha256:f0eca9ca8628dbb4e916ae2491d72957fdd35f7a5d326b7032a345f111ac07fe"
             ],
-            "version": "==0.2.18"
+            "version": "==0.2.20"
         },
         "packaging": {
             "hashes": [
