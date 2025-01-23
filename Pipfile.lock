@@ -320,7 +320,7 @@
                 "sha256:d33fa765374c0611b52f8b3a795f8900869aa88c84769d4d1746cd68fb28c3e8"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==4.0.1"
+            "version": "==4.1.0"
         },
         "jeepney": {
             "hashes": [
