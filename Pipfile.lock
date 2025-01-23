@@ -504,7 +504,7 @@
                 "sha256:97aacf9dbd4bfd829baad6e6309fa6573aaf1be3f6fa735c8ab05e46cecb261c"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.0.0"
+            "version": "=="
         },
         "rich": {
             "hashes": [
