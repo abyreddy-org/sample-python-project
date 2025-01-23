@@ -561,7 +561,7 @@
                 "sha256:dd505485549a7a552833da5e6063639d0d177c04f23bc3864e41e5dc5f612168"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==2.2.2"
+            "version": "==2.3.0"
         },
         "zipp": {
             "hashes": [
