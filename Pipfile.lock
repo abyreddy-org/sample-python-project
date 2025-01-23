@@ -344,7 +344,7 @@
                 "sha256:daaffd42dbda25ddafb1ad5fec4024e5bbcfe424597ca1ca452b299861e49f1b"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==25.2.1"
+            "version": "==25.6.0"
         },
         "markdown-it-py": {
             "hashes": [
