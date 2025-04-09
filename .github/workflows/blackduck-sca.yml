@@ -1,0 +1,27 @@
+'on':
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+jobs:
+  blackduck-sca:
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Black Duck SCA Scan
+        uses: blackduck-inc/black-duck-security-scan@v2.1.1
+        with:
+          polaris:
+            polaris_assessment_types:
+              - SAST
+              - SCA
+          coverity:
+            coverity_policy_view: Outstanding Issues
+          blackduck-sca: {}
+          blackducksca_url: ${{ vars.BLACKDUCK_URL }}
+          blackducksca_token: ${{ secrets.BLACKDUCK_TOKEN }}
+    runs-on:
+      - ubuntu-latest
+name: Black Duck SCA
