@@ -19,3 +19,7 @@ jobs:
           blackduck_url: ${{ vars.BLACKDUCK_URL }}
           blackduck_token: ${{ secrets.BLACKDUCK_TOKEN }}
           github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+          project_name: ${{ vars.PROJECT_NAME }}
+          project_version: ${{ vars.PROJECT_VERSION }}
+          project_version_name: ${{ vars.PROJECT_VERSION_NAME }}
+          project_version_description: ${{ vars.PROJECT_VERSION_DESCRIPTION }}
